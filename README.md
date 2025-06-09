@@ -76,7 +76,7 @@
 
 <section class="about" id="kontak">
     <h2>Kontak</h2>
-    <p>Email saya : nareva@gmail.com</p>
+    <p>Email saya : nandar@gmail.com</p>
     <p>Instagram  : @ndoo2nd</p>
     <p>Tiktok         : @ndoo_xxx
     <p>Kontak       : 088232930591
